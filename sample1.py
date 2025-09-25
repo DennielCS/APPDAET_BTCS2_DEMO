@@ -6,7 +6,7 @@ age = input("How old are you?")
 color = input("What is your favourite color?")
 university = input("What is your university?")
 
-print(f"Hello {name}! You are {age} years old, and your favorite color is {color}.")
+print(f"Hello {name}! You are {age} years old, and your favorite color is {color}. I'm currently studying at {university}.")
 
 # Number conversion
 print(0xABCDEF1234)
