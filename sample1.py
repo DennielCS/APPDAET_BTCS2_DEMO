@@ -4,6 +4,7 @@
 name = input("What is your name?")
 age = input("How old are you?")
 color = input("What is your favourite color?")
+university = input("What is your university?")
 
 print(f"Hello {name}! You are {age} years old, and your favorite color is {color}.")
 
